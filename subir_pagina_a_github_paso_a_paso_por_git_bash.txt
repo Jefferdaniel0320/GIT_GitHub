@@ -1,0 +1,83 @@
+paso 2  -  (dir) y (enter) es para saber que archivos estan en la carpeta 
+
+----------------------/////////////////------------------/////////////////-------------
+
+Nuevo repositorio 
+
+git init
+
+git add .
+
+git commit -m "texto"
+
+url que aparece en git y lo demas 
+
+git log --oneline = es para ver cual se sube 
+
+git remote add origin url del repositorio que va a crear 
+
+git branch -M main
+
+git push -u origin main
+
+----------------------/////////////////------------------/////////////////-------------
+
+Actualizar commit -m el orden es 
+
+git add . 
+git commit -m "el cambio"
+git log --oneline = este es para ver el cambio 
+git pull origin (la rama) para empujar el push si la rama no deja
+git push --set-upstream origin (la rama)para empujar el push si la rama no deja
+git push -u origin (gh-pages) aca segun la rama en donde este
+
+git add .
+git coommit -m ""
+git push -u origin  
+
+
+
+git branch -l muestra las ramas que estamos utilizando 
+
+git branch muestra la rama donde estoy 
+
+git branch gh-pages esto es para agregar una nueva rama 
+
+git status muestra la rama que estoy ejecutando
+
+para cambiar la rama que estamos utilizando 
+git checkout gh-pages
+
+git branch -h ayuda
+
+Tutorial de Git – 9. Cómo crear, modificar y eliminar branches https://youtu.be/j0U9jBmP3LM
+
+ver el origen del repositorio 
+
+git remote --verbose = para saber cual es el origen del repositorio
+git remote --v o este saber cual es el origen del repositorio
+
+----------------------/////////////////------------------/////////////////-------------
+
+Vamos donde dice (branch master) y agregamos (gh-pages) y lo seleccionamos 
+
+paso 8 - vamos a opciones - (Branches) y cambiamos la opcion de master a (gh-pages) update y confirmamos que sea la rama principal
+
+listo pagina subida 
+
+
+https://wa.me/573008089920?text= Hola%20Necesito%20Información
+
+
+
+
+
+ver video https://www.youtube.com/watch?v=EfrCCrIXe5c&ab_channel=%C2%BFC%C3%B3mosehace%3F
+
+subir pagina 
+https://www.youtube.com/watch?v=L_lWQZNhN7w&ab_channel=Bluuweb
+
+https://www.youtube.com/watch?v=uyR231am-WA&ab_channel=LeelaWebDev
+
+
+
