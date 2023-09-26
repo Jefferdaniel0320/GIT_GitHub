@@ -1,5 +1,5 @@
 <p align="center">
-  <a target="blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" alt="GitHub Logo" /></a>
+  <a target="blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="150" alt="GitHub Logo" /></a>
 </p>
 <p align="center">
   <strong><span style="font-size: 30px;">Comandos Git-GitHub</span></strong>
